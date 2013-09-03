@@ -1,4 +1,4 @@
 TimeCalculator
 ==============
 
-Time calculator for android devices (API Level 11)
+Time calculator for android devices (API LEVEL 11)
